@@ -24,4 +24,5 @@ S.NO	DESIGN PARAMETERS	DEGREE OF IMPORTANCE	Functionality
 7	Cobots should be able to stack each coffee box with 2cm away from previous coffee box with 85% accuracy	4	Accuracy
 
 
+![cell layout design](https://github.com/biiiishal123/41069RoboticsStudio2/assets/128454193/6146a60e-9841-4064-a7db-43b6bd90721c)
 
