@@ -25,3 +25,6 @@ S.NO	DESIGN PARAMETERS	DEGREE OF IMPORTANCE	Functionality
 5	Cobots should travel through shortest distance from picking the pouch to placing to box for optimizing the time 	
 6	Cobots should reach up to the distance of 1.5 meter from the base line and able to stack the box up to the height of 1.2m  	 
 7	Cobots should be able to stack each coffee box with 2cm away from previous coffee box with 85% accuracy	
+
+
+[robotics.drawio (1).pdf](https://github.com/biiiishal123/41069RoboticsStudio2/files/11512831/robotics.drawio.1.pdf)
